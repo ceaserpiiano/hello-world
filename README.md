@@ -1,2 +1,6 @@
 # hello-world
-These program wiil be write "HelloWorld!".
+
+Hu humans!
+
+Onidzuka here, I like Java and GameDev (that`s what I`m made of!).
+
